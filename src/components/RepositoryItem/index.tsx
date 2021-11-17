@@ -1,6 +1,12 @@
-import React from "react";
+interface RepositoryItemProps {
+    repository: {
+        name: string;
+        description: string;
+        html_url: string;
+    };
+}
 
-export const RepositoryItem = (props) => {
+export const RepositoryItem = (props: RepositoryItemProps) => {
     return (
         <li>
             <strong>{props.repository?.name ?? "Default"}</strong>
