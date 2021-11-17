@@ -2,6 +2,8 @@ import React from 'react'
 
 import { RepositoryItem } from '../RepositoryItem';
 
+import './styles.scss';
+
 export const RepositoryList = () => {
     const repository = {
         name: "Unform",
