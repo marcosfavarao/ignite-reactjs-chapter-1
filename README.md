@@ -12,7 +12,7 @@
 
 # Indice
 
--   [Sobre o Módulo](#-sobre-o-modulo)
+-   [Sobre o Módulo](#-sobre-o-módulo)
 -   [Como Executar](#-como-executar)
 
 ---
