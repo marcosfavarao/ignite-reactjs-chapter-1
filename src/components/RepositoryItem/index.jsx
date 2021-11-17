@@ -1,15 +1,13 @@
-import React from 'react'
+import React from "react";
 
 export const RepositoryItem = (props) => {
     return (
         <li>
-            <strong>{props.repository?.name ?? 'Default'}</strong>
-            
+            <strong>{props.repository?.name ?? "Default"}</strong>
+
             <p>{props.repository.description}</p>
-            
-            <a href={props.repository.html_url}>
-                Acessar repositório
-            </a>
+
+            <a href={props.repository.html_url}>Acessar repositório</a>
         </li>
-    )
-}
+    );
+};
