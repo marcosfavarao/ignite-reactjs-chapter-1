@@ -8,18 +8,20 @@
 
 <h3 align='center'>Chapter 1 - Fundamentos do ReactJS</h3>
 
+<br>
+
 ---
 
-# Indice
+<br>
+
+# 📑 Indice
 
 -   [Sobre o Módulo](#-sobre-o-módulo)
 -   [Como Executar](#-como-executar)
 
----
-
-<h2>💡 Sobre o Módulo</h2>
-
 <br>
+
+<h2>🔎 Sobre o Módulo</h2>
 
 <p>Neste módulo foi visto como configurar um projeto React App do 0, incluindo instalação do Babel e Webpack, expressões regulares, criação de variável para ambiente de desenvolvimento e produção, configuração do TypeScript para tipagem de componentes, e também foi abordado a customização de componentes utilizando o SASS (Pré-processador CSS) e sobre a estruturação das pastas e arquivos, bem como a hierarquia qual o projeto deve seguir. Abordamos os conceitos de imutabilidade, propriedades e componentização no React e, com isso, como inferir tipos e criar types/interfaces para forçar tipos aos dados e componentes criados.</p>
 
@@ -27,9 +29,18 @@
 
 <br>
 
----
+<h2>💡 Tecnologias Utilizadas</h2>
 
-<h2>📑 Como Executar</h2>
+<p>O projeto foi desenvolvido com as seguintes tecnologias:</p>
+
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Babel](https://babeljs.io/)
+- [Webpack](https://webpack.js.org/)
+- [SASS](https://sass-lang.com/)
+
+<br>
+
+<h2>⚙ Como Executar</h2>
 <p>O download do repositório pode ser feito via GitHub. Será necessário instalar as dependências antes de executá-lo.</p>
 
 ```bash
@@ -46,6 +57,10 @@
   $ yarn start
 ```
 
+<br>
+
 ---
 
-Repositório e Trilha Realizado por <strong>🚀 Marcos A. L. Favarão</strong>
+<div align='right'>
+  <span>Repositório e Trilha Realizado por <strong>🚀 Marcos A. L. Favarão</strong></span>.
+</div>
