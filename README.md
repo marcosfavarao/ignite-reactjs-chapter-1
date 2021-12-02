@@ -1,12 +1,14 @@
-<div align='center'>
-  <img src='https://repository-images.githubusercontent.com/344824358/0ff8ac80-8026-11eb-8ed1-e8b77764fbcd'>
-</div>
+<header>
+  <div align='center'>
+    <img src='https://ik.imagekit.io/wijkynyxd3a7/ignite-reactjs_1V5gUFcZlb8j8.png?updatedAt=1627791924656'>
+  </div>
 
-<br>
+  <br>
 
-<h1 align='center'> Ignite - Trilha ReactJS</h1>
+  <h1 align='center'> Ignite - Trilha ReactJS</h1>
 
-<h3 align='center'>Chapter 1 - Fundamentos do ReactJS</h3>
+  <h3 align='center'>Chapter 1 - Fundamentos do ReactJS</h3>
+</header>
 
 <br>
 
@@ -14,10 +16,11 @@
 
 <br>
 
-# 📑 Indice
+<h2>📑 Índice</h2>
 
--   [Sobre o Módulo](#-sobre-o-módulo)
--   [Como Executar](#-como-executar)
+- [Sobre o Módulo](#-sobre-o-modulo)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Como Executar](#-como-executar)
 
 <br>
 
@@ -33,10 +36,11 @@
 
 <p>O projeto foi desenvolvido com as seguintes tecnologias:</p>
 
-- [ReactJS](https://pt-br.reactjs.org/)
-- [Babel](https://babeljs.io/)
-- [Webpack](https://webpack.js.org/)
-- [SASS](https://sass-lang.com/)
+- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/reactjs-256-minimalist_LJGStks5Vr.png?updatedAt=1638394213281' alt="reactjs" width="32"> ](https://pt-br.reactjs.org/)
+- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/babel-256-minimalist_Sn38om_xo.png?updatedAt=1638394213311' alt="babel" width="32"> ](https://babeljs.io/)
+- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/webpack-256-minimalist_kHDeY1IAiA.png?updatedAt=1638394213381' alt="webpack" width="32"> ](https://webpack.js.org/)
+- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/sass-256-minimalist_a5DsTaBwwj.png?updatedAt=1638394213326' alt="sass" width="32"> ](https://sass-lang.com/)
+- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/typescript-256-minimalist_xJkfWGxye5WS.png?updatedAt=1638394213364' alt="typescript" width="32"> ](https://www.typescriptlang.org/)
 
 <br>
 
@@ -44,23 +48,23 @@
 <p>O download do repositório pode ser feito via GitHub. Será necessário instalar as dependências antes de executá-lo.</p>
 
 ```bash
-  # Clonar o repositório
-  $ git clone https://github.com/MarcosFavarao/ignite-reactjs-chapter-1.git
+# Clonar o repositório
+$ git clone https://github.com/MarcosFavarao/ignite-reactjs-chapter-1.git
 
-  # Entrar no repositório
-  $ cd ignite-reactjs-chapter-1
+# Entrar no repositório
+$ cd ignite-reactjs-chapter-1
 
-  # Instalar as dependências do projeto
-  $ yarn install
+# Instalar as dependências do projeto
+$ yarn install
 
-  # Iniciar o projeto
-  $ yarn start
+# Iniciar o projeto
+$ yarn start
 ```
 
 <br>
 
 ---
 
-<div align='right'>
+<footer align='right'>
   <span>Repositório e Trilha Realizado por <strong>🚀 Marcos A. L. Favarão</strong></span>.
-</div>
+</footer>
