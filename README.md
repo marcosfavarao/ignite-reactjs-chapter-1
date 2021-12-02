@@ -80,6 +80,6 @@ $ yarn start
 
 <footer>
   <div align='right'>
-    <span>Repositório e Trilha Realizado por <strong>🚀 Marcos A. L. Favarão</strong></span>.
+    <span>Repositório e trilha realizado por <strong>🚀 Marcos A. L. Favarão</strong></span>.
   </div>
 </footer>
