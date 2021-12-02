@@ -1,6 +1,6 @@
 <header>
   <div align='center'>
-    <img src='https://ik.imagekit.io/wijkynyxd3a7/ignite-reactjs_1V5gUFcZlb8j8.png?updatedAt=1627791924656'>
+    <img src='https://ik.imagekit.io/wijkynyxd3a7/ignite-reactjs_1V5gUFcZlb8j8.png?updatedAt=1627791924656' alt="reactjs-banner">
   </div>
 
   <br>
