@@ -43,11 +43,11 @@
 
 <p>O projeto foi desenvolvido com as seguintes tecnologias:</p>
 
-- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/reactjs-256-minimalist_LJGStks5Vr.png?updatedAt=1638394213281' alt="reactjs" width="32"> ](https://pt-br.reactjs.org/)
-- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/babel-256-minimalist_Sn38om_xo.png?updatedAt=1638394213311' alt="babel" width="32"> ](https://babeljs.io/)
-- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/webpack-256-minimalist_kHDeY1IAiA.png?updatedAt=1638394213381' alt="webpack" width="32"> ](https://webpack.js.org/)
-- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/sass-256-minimalist_a5DsTaBwwj.png?updatedAt=1638394213326' alt="sass" width="32"> ](https://sass-lang.com/)
-- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/typescript-256-minimalist_xJkfWGxye5WS.png?updatedAt=1638394213364' alt="typescript" width="32"> ](https://www.typescriptlang.org/)
+- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/reactjs-256-minimalist_LJGStks5Vr.png?updatedAt=1638394213281' alt="reactjs" width="32"> ](https://pt-br.reactjs.org/) ReactJS
+- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/babel-256-minimalist_Sn38om_xo.png?updatedAt=1638394213311' alt="babel" width="32"> ](https://babeljs.io/) Babel
+- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/webpack-256-minimalist_kHDeY1IAiA.png?updatedAt=1638394213381' alt="webpack" width="32"> ](https://webpack.js.org/) Webpack
+- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/sass-256-minimalist_a5DsTaBwwj.png?updatedAt=1638394213326' alt="sass" width="32"> ](https://sass-lang.com/) SASS
+- [ <img src='https://ik.imagekit.io/wijkynyxd3a7/development-icons/256x/minimalists/typescript-256-minimalist_xJkfWGxye5WS.png?updatedAt=1638394213364' alt="typescript" width="32"> ](https://www.typescriptlang.org/) Typescript
 </section>
 
 <br>
